@@ -16,6 +16,8 @@ public class PruebaGitHub {
         for ( i = 1; i < 11; i++) {
             System.out.println(a + " * " + i + "= " + (a*i) );
         }
+        
+        System.out.println("hola mama");
     }
     
 }
